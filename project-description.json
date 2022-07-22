@@ -1,0 +1,34 @@
+{
+    "name": "RocketHelp",
+    "short_description": "O RocketHelp é um aplicativo criado com React native, com a ideia de um app para gerenciamento de solicitações.",
+    "description": "O RocketHelp é um aplicativo criado com React native, com a ideia de um app para gerenciamento de solicitações.",
+    
+    "techs": [
+      {
+        "name": "React-Native",
+        "url": "https://reactnative.dev"
+      },
+      {
+        "name":"Expo",
+        "url": "https://expo.dev"
+      },
+      {
+          "name":"Firebase",
+          "url":"https://firebase.google.com"
+      },
+      
+      {
+        "name":"TypeScript",
+        "url":"https://www.typescriptlang.org"
+      },
+      {
+        "name":"Phosphor",
+        "url":"https://phosphoricons.com"
+      }
+
+      
+    ],
+    "videos":[
+        "https://raw.githubusercontent.com/ganimedes96/RocketHelp/main/.github/rockethelp.mp4"
+    ]
+}
