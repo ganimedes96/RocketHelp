@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/59948274/180474697-ea13acea-eb42-4f92-
 	About th project
 </h2>
 
-<p>Projeto Todo list  desenvolvido para reforçar os conceitos mais importantes do ReactJs </p>
+<p>O RocketHelp é um aplicativo criado com React native, com a ideia de um app para gerenciamento de solicitações. </p>
 
 ## 🚀 Technologies
 
