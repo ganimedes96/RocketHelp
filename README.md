@@ -66,8 +66,10 @@ $ git commit -m 'First Commit'
 # Send the code to your remote branch
 $ git push origin my-feature
 ```
-
+<h2 align="center">
 After your pull request is merged, you can delete your branch
+	
+</h2>
 
 <h3 align='center'>
     Made with 💜 &nbsp;by Hudson Felix 👋 
